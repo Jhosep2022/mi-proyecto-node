@@ -57,7 +57,7 @@ npm start
 Uso
 Descripción de cómo usar la aplicación con algunos ejemplos prácticos.
 
-Crear un Usuario
+## Crear un Usuario
 Para crear un nuevo usuario, envía una solicitud POST a:
 ```bash
 POST http://localhost:3000/users
@@ -69,7 +69,7 @@ POST http://localhost:3000/users
 }
 ```
 
-##Obtener Usuarios
+## Obtener Usuarios
 Para obtener todos los usuarios:
 
 ```bash
@@ -81,7 +81,7 @@ Para obtener un usuario específico por ID:
 GET http://localhost:3000/users/:id
 ```
 
-##Actualizar un Usuario
+## Actualizar un Usuario
 Para actualizar un usuario existente:
 
 ```bash
@@ -95,7 +95,7 @@ PUT http://localhost:3000/users/:id
 }
 ```
 
-##Eliminar un Usuario
+## Eliminar un Usuario
 Para eliminar un usuario:
 
 ```bash
