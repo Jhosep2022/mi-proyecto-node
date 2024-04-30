@@ -4,6 +4,24 @@ Breve descripción de lo que hace tu proyecto y qué problemas resuelve.
 link de la elaboracion del proyecto
 https://drive.google.com/file/d/1K4arT12CQsLzM9TLHj64N_GiHHexK66_/view?usp=sharing
 
+## Para el permiso de comuncacion entre fronten y backend
+
+para instalar CORS
+```
+npm install cors 
+```
+para instalar las dependencias que se necesitas la base de datos
+```
+npm install mysql2
+```
+
+
+
+para levantar el proyecto
+```
+npm run dev
+```
+
 ## Comenzando
 
 Estas instrucciones te proporcionarán una copia del proyecto en funcionamiento en tu máquina local para fines de desarrollo y pruebas.
